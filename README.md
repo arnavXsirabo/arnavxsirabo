@@ -1,156 +1,200 @@
-<!-- ===============================
-     HERO BANNER (ADD YOUR IMAGE)
-================================ -->
+<!-- ==========================================
+                HERO BANNER
+========================================== -->
+
 <p align="center">
-  <!-- Replace the src with your banner image URL -->
-  <img src="https://placehold.co/1200x300/0b0b0e/eaeaf0?text=Kumar+Arnav+%E2%80%94+Engineering+Thoughtful+Interfaces" 
-       alt="Kumar Arnav — Engineering thoughtful interfaces" />
+  <img src="https://placehold.co/1200x300/0b0b0e/eaeaf0?text=Kumar+Arnav+%7C+Building+Products+%26+Learning+Computer+Science"
+       alt="Kumar Arnav Banner" />
 </p>
 
-<h1 align="center">Kumar Arnav</h1>
+<h1 align="center">Hi, I'm Kumar Arnav 👋</h1>
 
 <p align="center">
-  <b>Software Engineer • Frontend-Focused Full-Stack Developer</b><br/>
-  I build interactive systems where engineering discipline meets deliberate design.
+  <b>CSE Student • Frontend Developer • Building Full-Stack Products</b>
 </p>
 
 <p align="center">
-  <a href="https://arnavxsirabo.dev">Portfolio</a> •
-  <a href="https://www.linkedin.com/in/arnavxsirabo">LinkedIn</a> •
-  <a href="mailto:arnavxsirabo@gmail.com">Email</a>
+  Passionate about software engineering, product development, and turning ideas into real-world applications.
 </p>
 
----
-
-## Engineering Philosophy
-
-I approach software as a **system**, not just a collection of features.  
-Clarity, performance, and user experience carry equal weight in my work.
-
-I prefer:
-- Simple architectures over clever ones  
-- Strong fundamentals over trend-driven choices  
-- Motion that communicates intent, not decoration  
-
-If something moves, it should explain state.  
-If something exists, it should justify its complexity.
-
----
-
-## Technical Skills
-
-**Languages**
-- JavaScript (ES6+)
-- Python
-- C
-
-**Frontend**
-- HTML5, CSS3
-- Vanilla JavaScript
-- React, Next.js
-- GSAP (motion & interaction design)
-
-**Backend & Tooling**
-- Node.js
-- Git & GitHub
-- REST APIs
-- Browser APIs
-
----
-
-## Selected Work
-
-> A focused selection of projects that reflect how I think, design, and engineer.
-
-### Detective Login Animation  
-**Focus:** Interaction design · Feedback systems · Motion logic  
-🔗 https://github.com/arnavxsirabo/detective-login  
-
-A character-driven login experience where input validation is visualized through
-animation. Built to explore **user feedback through motion** rather than alerts.
-
----
-
-### Time Warper Clock  
-**Focus:** State-driven animation · Temporal logic · SVG systems  
-🔗 https://github.com/arnavxsirabo/time-warper-clock  
-
-A surreal clock that morphs behavior based on real time.  
-Explores **time as state** and animation as a first-class system.
-
----
-
-### AER — Personal Productivity System  
-**Focus:** System design · Modularity · Long-term usability  
-🔗 https://github.com/arnavxsirabo/aer-app  
-
-A modular productivity application featuring task management, a Pomodoro system,
-and a customizable calendar. Designed as a **personal operating system**, not a demo.
-
----
-
-### Cat Interview Simulator  
-**Focus:** Conditional UI flows · Narrative UX · Animation timing  
-🔗 https://github.com/arnavxsirabo/cat-interview  
-
-A parody interview interface used to experiment with **decision trees,
-timing, and expressive UI feedback**.
-
----
-
-### Useless Settings Panel  
-**Focus:** UX anti-patterns · Expectation design · Behavioral testing  
-🔗 https://github.com/arnavxsirabo/useless-settings  
-
-An intentionally broken settings interface built to study **user assumptions
-and frustration patterns**.
-
----
-
-### Portfolio Website  
-**Focus:** Motion discipline · Performance · Visual hierarchy  
-🔗 https://github.com/arnavxsirabo/portfolio  
-
-My personal portfolio, designed and engineered from scratch with an emphasis on
-**clarity, restraint, and intentional motion**.
-
----
-
-## Currently
-
-Open to internships, research opportunities, and engineering roles
-where **product quality and craftsmanship** are valued.
-
----
-
-## GitHub Activity
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=arnavxsirabo&show_icons=true&theme=radical&count_private=true" height="170"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=arnavxsirabo&theme=radical" height="170"/>
+  <a href="YOUR_PORTFOLIO">Portfolio</a> •
+  <a href="YOUR_LINKEDIN">LinkedIn</a> •
+  <a href="mailto:YOUR_EMAIL">Email</a>
 </p>
 
 ---
 
-<p align="center">
-  <i>I care about clean systems, deliberate motion, and software that respects the user.</i>
+## 🚀 About Me
+
+I'm a Computer Science student who enjoys building products, solving problems, and continuously improving my engineering skills.
+
+Currently focused on:
+
+* Learning **C++ & Data Structures and Algorithms**
+* Building **full-stack web applications**
+* Exploring **AI-powered software**
+* Designing polished and interactive user experiences
+* Creating projects that solve real problems
+
+I enjoy turning ambitious ideas into working products and documenting the journey along the way.
+
+---
+
+## 📚 Currently Learning
+
+```text
+✓ HTML, CSS, JavaScript
+✓ React & Next.js
+✓ Frontend Architecture
+
+🔄 C++
+🔄 Data Structures & Algorithms
+🔄 Backend Development
+🔄 Databases
+🔄 System Design
+
+🎯 Next:
+AI Integration
+Cloud Fundamentals
+Open Source Contributions
+```
+
+---
+
+## 🛠 Tech Stack
+
+### Languages
+
+<p>
+  <img src="https://skillicons.dev/icons?i=cpp,c,js,python" />
+</p>
+
+### Frontend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,react,nextjs" />
+</p>
+
+### Backend & Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,git,github,vscode,postman" />
 </p>
 
 ---
 
-<!-- ===============================
-     CONNECT
-================================ -->
+## 🌟 Featured Projects
+
+### 🚀 AER — Personal Productivity System
+
+A productivity platform combining:
+
+* Task Management
+* Calendar Planning
+* Focus Sessions
+* Productivity Tracking
+* Custom Workflows
+
+Built as a personal operating system for learning, planning, and execution.
+
+---
+
+### 🏫 SMIT Campus Platform *(In Development)*
+
+A centralized platform for students featuring:
+
+* Lost & Found
+* Event Discovery
+* Club Recruitment
+* Announcements
+
+Designed to improve campus communication and student engagement.
+
+---
+
+### ⏰ Time Warper Clock
+
+An experimental interactive clock where visuals and behavior evolve throughout the day.
+
+**Tech:** HTML, CSS, JavaScript, SVG, GSAP
+
+---
+
+### 🐱 Cat Interview Simulator
+
+A humorous interactive experience built around decision trees, animations, and playful user interactions.
+
+---
+
+### 🕵️ Detective Login Animation
+
+An animated login experience exploring motion-driven feedback and character-based interactions.
+
+---
+
+## 📈 Goals for 2026
+
+* Master C++ and DSA
+* Solve 500+ quality coding problems
+* Build production-ready full-stack applications
+* Launch SaaS products
+* Gain internship experience
+* Contribute to open source
+* Strengthen system design fundamentals
+
+---
+
+## 📊 GitHub Statistics
+
 <p align="center">
-  <a href="https://arnavxsirabo.dev" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg" width="28" />
+  <img src="https://github-readme-stats.vercel.app/api?username=arnavxsirabo&show_icons=true&theme=tokyonight&count_private=true" height="170"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=arnavxsirabo&theme=tokyonight" height="170"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arnavxsirabo&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+## 🎯 Current Mission
+
+```text
+Learn Deeply.
+Build Consistently.
+Share Progress.
+Think Long-Term.
+```
+
+---
+
+## 🤝 Open To
+
+* Internships
+* Open Source Contributions
+* Hackathons
+* Startup Collaborations
+* Learning Opportunities
+
+---
+
+<p align="center">
+  <i>Building products, learning computer science, and improving every day.</i>
+</p>
+
+---
+
+<p align="center">
+  <a href="YOUR_LINKEDIN">
+    <img src="https://skillicons.dev/icons?i=linkedin" width="40"/>
   </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/arnavxsirabo" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="28" />
+  &nbsp;&nbsp;
+  <a href="https://github.com/arnavxsirabo">
+    <img src="https://skillicons.dev/icons?i=github" width="40"/>
   </a>
-  &nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;
   <a href="mailto:arnavxsirabo@gmail.com">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="28" />
+    <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="40"/>
   </a>
 </p>
